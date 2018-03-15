@@ -1,3 +1,8 @@
-# First Chapter
+# 压缩整个目录文件
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+```
+    zip -r ./platform.zip ./platform/
+```
+
+
+
